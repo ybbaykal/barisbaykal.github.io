@@ -1,0 +1,1430 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="oSborn">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>oSborn</title>
+	<link rel="icon" type="image/x-icon" href="assets/images/main-favicon.ico">
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css' rel='stylesheet'>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+		rel="stylesheet">
+	<link
+		href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+		rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="portfolio_assets/css/plugins.css" />
+	<link rel="stylesheet" type="text/css" href="portfolio_assets/css/dark.css" />
+	<link rel="stylesheet" type="text/css" href="portfolio_assets/css/colors.css" />
+	<link rel="stylesheet" type="text/css" href="portfolio_assets/css/style.css" />
+
+</head>
+
+<body class="dark">
+	<div id="preloader">
+		<div class="loader_line"></div>
+	</div>
+
+	<div class="tokyo_tm_all_wrap" data-magic-cursor="hide" data-color="crimson">
+		<div class="tokyo_tm_modalbox">
+			<div class="box_inner">
+				<div class="close">
+					<a href="#"><img class="svg" src="portfolio_assets/img/svg/cancel.svg" alt="" /></a>
+				</div>
+				<div class="description_wrap"></div>
+			</div>
+		</div>
+
+		<div class="tokyo_tm_modalbox_about modal_1">
+			<div class="box_inner">
+				<div class="close">
+					<a href="#"><img class="svg" src="portfolio_assets/img/svg/cancel.svg" alt="" /></a>
+				</div>
+				<div class="description_wrap">
+					<div class="counter">
+						<div class="about_title">
+							<h3>Programming Languages & Tools</h3>
+						</div>
+						<ul>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/html5.svg"></a>
+									</h3>
+									<span class="name">HTML</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/css3.svg"></a>
+									</h3>
+									<span class="name">CSS</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/javascript.png" alt=""></a></h3>
+									<span class="name">JavaScript</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/csharp.svg"></a>
+									</h3>
+									<span class="name">C#</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/unity.png"></a>
+									</h3>
+									<span class="name">Unity</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/flstudio.png"></a>
+									</h3>
+									<span class="name">FL Studio</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/aseprite.png"></a>
+									</h3>
+									<span class="name">Aseprite</span>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a href="#"><img style="height:60px;"
+												src="portfolio_assets/img/logo/photoshop.svg"></a>
+									</h3>
+									<span class="name">Photoshop</span>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tokyo_tm_modalbox_about modal_2">
+			<div class="box_inner" style="background-color: rgba(0,0,0,0);">
+				<div class="close">
+					<a href="#"><img class="svg" src="portfolio_assets/img/svg/cancel.svg" alt="" /></a>
+				</div>
+				<div class="spotify_inner">
+					<iframe style="border-radius:12px"
+						src="https://open.spotify.com/embed/playlist/2P3sQWhLbUGAJGDvnmfOrV?utm_source=generator&theme=0"
+						width="100%" height="380" frameBorder="0" allowfullscreen=""
+						allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="tokyo_tm_mobile_menu">
+			<div class="menu_inner">
+				<div class="logo">
+					<img src="portfolio_assets/img/logo/osborn_logo.png" alt="" />
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="#home"><i class="fa fa-house"></i></a></li>
+						<li><a href="#about"><i class="fa fa-user"></i></a></li>
+						<li><a href="#portfolio"><i class="fa fa-briefcase"></i></a></li>
+						<!-- <li><a href="#news"><i class="fa fa-file-lines"></i></a></li> -->
+						<!-- <li><a href="#contact"><i class="fa-solid fa-address-card"></i></a></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- /MOBILE MENU -->
+
+		<!-- LEFTPART -->
+		<div class="leftpart">
+			<div class="leftpart_inner">
+				<div class="logo">
+					<a href=""><img src="portfolio_assets/img/logo/osborn_logo_light.png" alt="" /></a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li class="active"><a href="#home"><i class="fa fa-house"></i> Home</a></li>
+						<li><a href="#about"><i class="fa fa-user"></i> About</a></li>
+						<li><a href="#portfolio"><i class="fa fa-briefcase"></i> Content</a></li>
+						<!-- <li><a href="#news"><i class="fa fa-file-lines"></i> Blog</a></li> -->
+						<!-- <li><a href="#contact">Contact</a></li> -->
+					</ul>
+				</div>
+				<div class="copyright">
+					<p>Follow on <br> "<a href="https://www.instagram.com/yusufbarisbaykal/" target="_blank">Instagram</a>"</p>
+				</div>
+			</div>
+		</div>
+		<!-- /LEFTPART -->
+
+		<!-- RIGHTPART -->
+		<div class="rightpart">
+			<div class="rightpart_in">
+
+				<div id="home" class="tokyo_tm_section active">
+					<div class="container">
+						<div class="tokyo_tm_home">
+							<div class="home_content">
+								<div class="avatar">
+									<div class="image" data-img-url="portfolio_assets/img/photo/me2.png"></div>
+								</div>
+								<div class="details">
+									<h3 class="name">Barış Baykal "<span>oSborn</span>"</h3>
+									<p class="job">“Görmeyi öğrenin.. Her şeyin birbiriyle bağlantılı olduğunu fark
+										edeceksiniz” - Leonardo Da Vinci</p>
+									<div class="social">
+
+										<ul>
+											<li><a target="_blank" href="http://osbornx9.itch.io/"><i
+														class="fa-brands fa-2x fa-itch-io"></i></i></a></li>
+											<li><a target="_blank" href="https://github.com/ybbaykal"><i
+														class="fa-brands fa-2x fa-github"></i></i></a></li>
+											<li><a target="_blank" href="https://www.linkedin.com/in/yusuf-bar%C4%B1%C5%9F-baykal-68a226217/"><i
+														class="fa-brands fa-2x fa-linkedin"></i></i></a></li>
+											<li><a target="_blank"
+													href="https://www.youtube.com/channel/UC9NmQ30kkUkf0ubMXe8WMng"><i
+														class="fa-brands fa-2x fa-youtube"></i></i></a></li>
+											<li><a target="_blank"
+													href="https://open.spotify.com/user/mehmetdenizbaykal?si=d7ba647c0c274e41"><i
+														class="fa-brands fa-2x fa-spotify"></i></i></a></li>
+											<li><a target="_blank" href="https://www.instagram.com/yusufbarisbaykal/"><i
+														class="fa-brands fa-2x fa-instagram"></i></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="about" class="tokyo_tm_section">
+					<div class="container">
+						<div class="tokyo_tm_about">
+							<div class="about_image">
+								<img src="portfolio_assets/img/about/ad.png" alt="" />
+								<div class="main" data-img-url="portfolio_assets/img/about/ad.png"></div>
+							</div>
+							<div class="description">
+								<h3 class="name">Barış Baykal <span>Software Developer</span> & <span>Photographer</span> & <span>Videographer</span></h3>
+								<div class="description_inner">
+									<div class="left">
+										<div>
+											<p>Hello, I'm <script>
+													document.write(/\d{4}/.exec(Date())[0] - 2003)
+												</script> years old, I am a software developer and working as a
+												Freelancer.
+												<br> I started my career with the Web industry and continue with the
+												Game industry.
+												<br> I develop indie games as MoonArctic Games</span>.</a>
+										</div>
+										<div class="tokyo_tm_button button_learn_more">
+											<a href="#">Learn More</a>
+										</div>
+										<!-- <div class="tokyo_tm_button button_spotify" style="margin-top:10px;">
+											<a href="#">Music</a>
+										</div> -->
+									</div>
+									<div class="right">
+										<ul>
+											<li>
+												<p><span>Email:</span><a
+														href="mailto:yusufbarisbaykal1@gmail.com">yusufbarisbaykal1@gmail.com</a></p>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="tokyo_tm_portfolio_titles"></div>
+				<div id="portfolio" class="tokyo_tm_section">
+					<div class="container">
+						<div class="tokyo_tm_portfolio">
+							<div class="tokyo_tm_title">
+								<div class="title_flex">
+									<div class="left">
+										<span>Content</span>
+										<h3>Creative Content</h3>
+									</div>
+									<div class="portfolio_filter">
+										<ul>
+											<li><a href="#" class="current" data-filter="*">All</a></li>
+											<li><a href="#" data-filter=".game">Game</a></li>
+											<li><a href="#" data-filter=".youtube">Youtube</a></li>
+											<li><a href="#" data-filter=".image">Image</a></li>
+											<li><a href="#" data-filter=".project">Project</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="list_wrapper">
+								<ul class="portfolio_list gallery_zoom">
+									<li class="youtube">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Fight Club Jelibon Club #1" data-category="Youtube">
+												<a class="popup-youtube"
+													href="https://www.youtube.com/watch?v=v4tO6jGdqIc">
+													<img src="portfolio_assets/img/portfolio/jelibon_club1.jpg"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/jelibon_club1.jpg">
+													</div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="game">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Rise From the Ashes" data-category="Shelter Jam">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/portfolio/rise_from_the_ashes.png"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/rise_from_the_ashes.png">
+													</div>
+												</a>
+												<div class="details_all_wrap">
+													<div class="popup_details">
+														<div class="top_image"></div>
+														<div class="portfolio_main_title"></div>
+														<div class="main_details">
+															<div class="textbox">
+																<p>We live in a world where we need to move quickly and
+																	iterate
+																	on our ideas as flexibly as possible. Building
+																	mockups
+																	strikes the ideal balance between true-life
+																	representation
+																	of the end product and ease of modification.</p>
+																<p>Mockups are useful both for the creative phase of the
+																	project
+																	- for instance when you're trying to figure out your
+																	user
+																	flows or the proper visual hierarchy - and the
+																	production
+																	phase when they will represent the target product.
+																	Making
+																	mockups a part of your creative and development
+																	process
+																	allows you to quickly and easily ideate.</p>
+															</div>
+															<div class="detailbox">
+																<ul>
+																	<li>
+																		<span class="first">Client</span>
+																		<span>Alvaro Morata</span>
+																	</li>
+																	<li>
+																		<span class="first">Category</span>
+																		<span><a href="#">Detail</a></span>
+																	</li>
+																	<li>
+																		<span class="first">Date</span>
+																		<span>March 07, 2021</span>
+																	</li>
+																	<li>
+																		<span class="first">Share</span>
+																		<ul class="share">
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/facebook.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/twitter.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/instagram.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/dribbble.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/tik-tok.svg"
+																						alt="" /></a></li>
+																		</ul>
+																	</li>
+																</ul>
+															</div>
+														</div>
+														<div class="additional_images">
+															<ul>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="youtube">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Oyunlar & Komik Anlar | #MagaraJam4 REWIND"
+												data-category="Youtube">
+												<a class="popup-youtube"
+													href="https://www.youtube.com/watch?v=iv7zS6eEQw4">
+													<img src="portfolio_assets/img/portfolio/magarajam_rewind.jpg"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/magarajam_rewind.jpg">
+													</div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="game">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Jammer Jammer" data-category="Mağara Jam #4">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/portfolio/jammer_jammer.png"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/jammer_jammer.png">
+													</div>
+												</a>
+												<div class="details_all_wrap">
+													<div class="popup_details">
+														<div class="top_image"></div>
+														<div class="portfolio_main_title"></div>
+														<div class="main_details">
+															<div class="textbox">
+																<p>We live in a world where we need to move quickly and
+																	iterate
+																	on our ideas as flexibly as possible. Building
+																	mockups
+																	strikes the ideal balance between true-life
+																	representation
+																	of the end product and ease of modification.</p>
+																<p>Mockups are useful both for the creative phase of the
+																	project
+																	- for instance when you're trying to figure out your
+																	user
+																	flows or the proper visual hierarchy - and the
+																	production
+																	phase when they will represent the target product.
+																	Making
+																	mockups a part of your creative and development
+																	process
+																	allows you to quickly and easily ideate.</p>
+															</div>
+															<div class="detailbox">
+																<ul>
+																	<li>
+																		<span class="first">Client</span>
+																		<span>Alvaro Morata</span>
+																	</li>
+																	<li>
+																		<span class="first">Category</span>
+																		<span><a href="#">Detail</a></span>
+																	</li>
+																	<li>
+																		<span class="first">Date</span>
+																		<span>March 07, 2021</span>
+																	</li>
+																	<li>
+																		<span class="first">Share</span>
+																		<ul class="share">
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/facebook.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/twitter.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/instagram.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/dribbble.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/tik-tok.svg"
+																						alt="" /></a></li>
+																		</ul>
+																	</li>
+																</ul>
+															</div>
+														</div>
+														<div class="additional_images">
+															<ul>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="game">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Evil Intelligence" data-category="Hujam ">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/portfolio/evil_intelligence.png"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/evil_intelligence.png">
+													</div>
+												</a>
+												<div class="details_all_wrap">
+													<div class="popup_details">
+														<div class="top_image"></div>
+														<div class="portfolio_main_title"></div>
+														<div class="main_details">
+															<div class="textbox">
+																<p>We live in a world where we need to move quickly and
+																	iterate
+																	on our ideas as flexibly as possible. Building
+																	mockups
+																	strikes the ideal balance between true-life
+																	representation
+																	of the end product and ease of modification.</p>
+																<p>Mockups are useful both for the creative phase of the
+																	project
+																	- for instance when you're trying to figure out your
+																	user
+																	flows or the proper visual hierarchy - and the
+																	production
+																	phase when they will represent the target product.
+																	Making
+																	mockups a part of your creative and development
+																	process
+																	allows you to quickly and easily ideate.</p>
+															</div>
+															<div class="detailbox">
+																<ul>
+																	<li>
+																		<span class="first">Client</span>
+																		<span>Alvaro Morata</span>
+																	</li>
+																	<li>
+																		<span class="first">Category</span>
+																		<span><a href="#">Detail</a></span>
+																	</li>
+																	<li>
+																		<span class="first">Date</span>
+																		<span>March 07, 2021</span>
+																	</li>
+																	<li>
+																		<span class="first">Share</span>
+																		<ul class="share">
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/facebook.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/twitter.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/instagram.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/dribbble.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/tik-tok.svg"
+																						alt="" /></a></li>
+																		</ul>
+																	</li>
+																</ul>
+															</div>
+														</div>
+														<div class="additional_images">
+															<ul>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="game">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Depression Stitch" data-category="FrostJam #4">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/portfolio/depression_stitch.png"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/depression_stitch.png">
+													</div>
+												</a>
+												<div class="details_all_wrap">
+													<div class="popup_details">
+														<div class="top_image"></div>
+														<div class="portfolio_main_title"></div>
+														<div class="main_details">
+															<div class="textbox">
+																<p>We live in a world where we need to move quickly and
+																	iterate
+																	on our ideas as flexibly as possible. Building
+																	mockups
+																	strikes the ideal balance between true-life
+																	representation
+																	of the end product and ease of modification.</p>
+																<p>Mockups are useful both for the creative phase of the
+																	project
+																	- for instance when you're trying to figure out your
+																	user
+																	flows or the proper visual hierarchy - and the
+																	production
+																	phase when they will represent the target product.
+																	Making
+																	mockups a part of your creative and development
+																	process
+																	allows you to quickly and easily ideate.</p>
+															</div>
+															<div class="detailbox">
+																<ul>
+																	<li>
+																		<span class="first">Client</span>
+																		<span>Alvaro Morata</span>
+																	</li>
+																	<li>
+																		<span class="first">Category</span>
+																		<span><a href="#">Detail</a></span>
+																	</li>
+																	<li>
+																		<span class="first">Date</span>
+																		<span>March 07, 2021</span>
+																	</li>
+																	<li>
+																		<span class="first">Share</span>
+																		<ul class="share">
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/facebook.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/twitter.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/instagram.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/dribbble.svg"
+																						alt="" /></a></li>
+																			<li><a href="#"><img class="svg"
+																						src="portfolio_assets/img/svg/social/tik-tok.svg"
+																						alt="" /></a></li>
+																		</ul>
+																	</li>
+																</ul>
+															</div>
+														</div>
+														<div class="additional_images">
+															<ul>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+																<li>
+																	<div class="list_inner">
+																		<div class="my_image">
+																			<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																				alt="" />
+																			<div class="main"
+																				data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																			</div>
+																		</div>
+																	</div>
+																</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<!-- <li class="image">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Gloria Jenkins" data-category="Image">
+												<a class="zoom" href="portfolio_assets/img/portfolio/3.jpg">
+													<img src="portfolio_assets/img/thumbs/1-1.jpg" alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/3.jpg"></div>
+												</a>
+											</div>
+										</div>
+									</li> -->
+									<li class="project">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Bitcord"
+												data-category="Project">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/portfolio/bitcord.png" alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/bitcord.png"></div>
+												</a>
+											</div>
+										</div>
+										<div class="details_all_wrap">
+											<div class="popup_details">
+												<div class="top_image"></div>
+												<div class="portfolio_main_title"></div>
+												<div class="main_details">
+													<div class="textbox">
+														<p>We live in a world where we need to move quickly and iterate
+															on our ideas as flexibly as possible. Building mockups
+															strikes the ideal balance between true-life representation
+															of the end product and ease of modification.</p>
+														<p>Mockups are useful both for the creative phase of the project
+															- for instance when you're trying to figure out your user
+															flows or the proper visual hierarchy - and the production
+															phase when they will represent the target product. Making
+															mockups a part of your creative and development process
+															allows you to quickly and easily ideate.</p>
+													</div>
+													<div class="detailbox">
+														<ul>
+															<li>
+																<span class="first">Client</span>
+																<span>Alvaro Morata</span>
+															</li>
+															<li>
+																<span class="first">Category</span>
+																<span><a href="#">Detail</a></span>
+															</li>
+															<li>
+																<span class="first">Date</span>
+																<span>March 07, 2021</span>
+															</li>
+															<li>
+																<span class="first">Share</span>
+																<ul class="share">
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/facebook.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/twitter.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/instagram.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/dribbble.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/tik-tok.svg"
+																				alt="" /></a></li>
+																</ul>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="additional_images">
+													<ul>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<!-- <li class="project">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="Selena Gomez" data-category="Detail">
+												<a class="popup_info" href="#">
+													<img src="portfolio_assets/img/thumbs/1-1.jpg" alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/7.jpg"></div>
+												</a>
+											</div>
+										</div>
+										<div class="details_all_wrap">
+											<div class="popup_details">
+												<div class="top_image"></div>
+												<div class="portfolio_main_title"></div>
+												<div class="main_details">
+													<div class="textbox">
+														<p>We live in a world where we need to move quickly and iterate
+															on our ideas as flexibly as possible. Building mockups
+															strikes the ideal balance between true-life representation
+															of the end product and ease of modification.</p>
+														<p>Mockups are useful both for the creative phase of the project
+															- for instance when you're trying to figure out your user
+															flows or the proper visual hierarchy - and the production
+															phase when they will represent the target product. Making
+															mockups a part of your creative and development process
+															allows you to quickly and easily ideate.</p>
+													</div>
+													<div class="detailbox">
+														<ul>
+															<li>
+																<span class="first">Client</span>
+																<span>Alvaro Morata</span>
+															</li>
+															<li>
+																<span class="first">Category</span>
+																<span><a href="#">Detail</a></span>
+															</li>
+															<li>
+																<span class="first">Date</span>
+																<span>March 07, 2021</span>
+															</li>
+															<li>
+																<span class="first">Share</span>
+																<ul class="share">
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/facebook.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/twitter.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/instagram.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/dribbble.svg"
+																				alt="" /></a></li>
+																	<li><a href="#"><img class="svg"
+																				src="portfolio_assets/img/svg/social/tik-tok.svg"
+																				alt="" /></a></li>
+																</ul>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="additional_images">
+													<ul>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/1.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/2.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+														<li>
+															<div class="list_inner">
+																<div class="my_image">
+																	<img src="portfolio_assets/img/thumbs/4-2.jpg"
+																		alt="" />
+																	<div class="main"
+																		data-img-url="portfolio_assets/img/portfolio/3.jpg">
+																	</div>
+																</div>
+															</div>
+														</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li> -->
+									<li class="youtube">
+										<div class="inner">
+											<div class="entry tokyo_tm_portfolio_animation_wrap"
+												data-title="2021 Doğum günü efsane edit" data-category="Youtube">
+												<a class="popup-youtube"
+													href="https://www.youtube.com/watch?v=7C1c7_6UOlc">
+													<img src="portfolio_assets/img/portfolio/dogum_gunu_edit.jpg"
+														alt="" />
+													<div class="main_image"
+														data-img-url="portfolio_assets/img/portfolio/dogum_gunu_edit.jpg">
+													</div>
+												</a>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="news" class="tokyo_tm_section">
+					<div class="container">
+						<div class="tokyo_tm_news">
+							<div class="tokyo_tm_title">
+								<div class="title_flex">
+									<div class="left">
+										<span>News</span>
+										<h3>Latest News</h3>
+									</div>
+								</div>
+							</div>
+							<ul>
+								<li>
+									<div class="list_inner">
+										<div class="image">
+											<img src="portfolio_assets/img/thumbs/4-3.jpg" alt="" />
+											<div class="main" data-img-url="portfolio_assets/img/news/1.jpg"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details">
+											<div class="extra">
+												<div class="short">
+													<p class="date">By <a href="#">Alex Watson</a> <span>05 April
+															2021</span></p>
+												</div>
+												<div class="my_like">
+													<a href="#"><img class="svg" src="portfolio_assets/img/svg/like.svg"
+															alt="" /><span>35</span></a>
+												</div>
+											</div>
+											<h3 class="title"><a href="#">Format releases a new tool that enables direct
+													video hosting</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										<div class="main_content">
+											<div class="descriptions">
+												<p class="bigger">Just because we can't get out and about like we
+													normally would, doesn’t mean we have to stop taking pictures.
+													There’s still plenty you can do, provided you're prepared to use
+													some imagination. Here are a few ideas to keep you shooting until
+													normal life resumes.</p>
+												<p>Most photographers love to shoot the unusual, and you don’t get much
+													more unusual than These Unprecedented Times. Right now everything
+													counts as out of the ordinary. There are a number of remarkable
+													things about these lockdown days that are worth photographing now so
+													we can remember them when it is all over.</p>
+												<p>Streets empty that are usually busy are remarkable and can evoke the
+													sense of historical pictures from before the invention of the
+													motorcar. Other things that are different at the moment will be
+													queues to get into stores and the lines marked out on the floor to
+													show how far apart we should be.</p>
+												<div class="quotebox">
+													<div class="icon">
+														<img class="svg" src="portfolio_assets/img/svg/quote.svg"
+															alt="" />
+													</div>
+													<p>Most photographers find it hard to see interesting pictures in
+														places in which they are most familiar. A trip somewhere new
+														seems always exactly what our photography needed, as shooting
+														away from home consistently inspires us to new artistic heights.
+													</p>
+												</div>
+												<p>Pretend everything is new and that you haven’t seen it before, and
+													then you will be free to notice the leading lines, the places where
+													one edge meets another in delightful geometric harmony, and how the
+													ordinary things in the kitchen are transformed when the light is on
+													or off.</p>
+												<p>The trick here is to look slowly, and then look again. Take the time
+													to look in detail and to look at the same thing from different
+													angles, with different light, long lenses and wide lenses. Then move
+													to the left a bit. You may never feel the need to leave the house
+													again.</p>
+											</div>
+											<div class="news_share">
+												<span>Share:</span>
+												<ul>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/facebook.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/twitter.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/instagram.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/dribbble.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/tik-tok.svg"
+																alt="" /></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="image">
+											<img src="portfolio_assets/img/thumbs/4-3.jpg" alt="" />
+											<div class="main" data-img-url="portfolio_assets/img/news/2.jpg"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details">
+											<div class="extra">
+												<div class="short">
+													<p class="date">By <a href="#">Brook Kennedy</a> <span>22 March
+															2021</span></p>
+												</div>
+												<div class="my_like">
+													<a href="#"><img class="svg" src="portfolio_assets/img/svg/like.svg"
+															alt="" /><span>47</span></a>
+												</div>
+											</div>
+											<h3 class="title"><a href="#">Sony announced two new full frame cameras with
+													zero fanfare</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										<div class="main_content">
+											<div class="descriptions">
+												<p class="bigger">Just because we can't get out and about like we
+													normally would, doesn’t mean we have to stop taking pictures.
+													There’s still plenty you can do, provided you're prepared to use
+													some imagination. Here are a few ideas to keep you shooting until
+													normal life resumes.</p>
+												<p>Most photographers love to shoot the unusual, and you don’t get much
+													more unusual than These Unprecedented Times. Right now everything
+													counts as out of the ordinary. There are a number of remarkable
+													things about these lockdown days that are worth photographing now so
+													we can remember them when it is all over.</p>
+												<p>Streets empty that are usually busy are remarkable and can evoke the
+													sense of historical pictures from before the invention of the
+													motorcar. Other things that are different at the moment will be
+													queues to get into stores and the lines marked out on the floor to
+													show how far apart we should be.</p>
+												<div class="quotebox">
+													<div class="icon">
+														<img class="svg" src="portfolio_assets/img/svg/quote.svg"
+															alt="" />
+													</div>
+													<p>Most photographers find it hard to see interesting pictures in
+														places in which they are most familiar. A trip somewhere new
+														seems always exactly what our photography needed, as shooting
+														away from home consistently inspires us to new artistic heights.
+													</p>
+												</div>
+												<p>Pretend everything is new and that you haven’t seen it before, and
+													then you will be free to notice the leading lines, the places where
+													one edge meets another in delightful geometric harmony, and how the
+													ordinary things in the kitchen are transformed when the light is on
+													or off.</p>
+												<p>The trick here is to look slowly, and then look again. Take the time
+													to look in detail and to look at the same thing from different
+													angles, with different light, long lenses and wide lenses. Then move
+													to the left a bit. You may never feel the need to leave the house
+													again.</p>
+											</div>
+											<div class="news_share">
+												<span>Share:</span>
+												<ul>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/facebook.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/twitter.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/instagram.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/dribbble.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/tik-tok.svg"
+																alt="" /></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="image">
+											<img src="portfolio_assets/img/thumbs/4-3.jpg" alt="" />
+											<div class="main" data-img-url="portfolio_assets/img/news/3.jpg"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details">
+											<div class="extra">
+												<div class="short">
+													<p class="date">By <a href="#">Paola Atkins</a> <span>15 Feb
+															2021</span></p>
+												</div>
+												<div class="my_like">
+													<a href="#"><img class="svg" src="portfolio_assets/img/svg/like.svg"
+															alt="" /><span>22</span></a>
+												</div>
+											</div>
+											<h3 class="title"><a href="#">Why every photographer should shoot film, even
+													in 2021</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										<div class="main_content">
+											<div class="descriptions">
+												<p class="bigger">Just because we can't get out and about like we
+													normally would, doesn’t mean we have to stop taking pictures.
+													There’s still plenty you can do, provided you're prepared to use
+													some imagination. Here are a few ideas to keep you shooting until
+													normal life resumes.</p>
+												<p>Most photographers love to shoot the unusual, and you don’t get much
+													more unusual than These Unprecedented Times. Right now everything
+													counts as out of the ordinary. There are a number of remarkable
+													things about these lockdown days that are worth photographing now so
+													we can remember them when it is all over.</p>
+												<p>Streets empty that are usually busy are remarkable and can evoke the
+													sense of historical pictures from before the invention of the
+													motorcar. Other things that are different at the moment will be
+													queues to get into stores and the lines marked out on the floor to
+													show how far apart we should be.</p>
+												<div class="quotebox">
+													<div class="icon">
+														<img class="svg" src="portfolio_assets/img/svg/quote.svg"
+															alt="" />
+													</div>
+													<p>Most photographers find it hard to see interesting pictures in
+														places in which they are most familiar. A trip somewhere new
+														seems always exactly what our photography needed, as shooting
+														away from home consistently inspires us to new artistic heights.
+													</p>
+												</div>
+												<p>Pretend everything is new and that you haven’t seen it before, and
+													then you will be free to notice the leading lines, the places where
+													one edge meets another in delightful geometric harmony, and how the
+													ordinary things in the kitchen are transformed when the light is on
+													or off.</p>
+												<p>The trick here is to look slowly, and then look again. Take the time
+													to look in detail and to look at the same thing from different
+													angles, with different light, long lenses and wide lenses. Then move
+													to the left a bit. You may never feel the need to leave the house
+													again.</p>
+											</div>
+											<div class="news_share">
+												<span>Share:</span>
+												<ul>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/facebook.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/twitter.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/instagram.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/dribbble.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/tik-tok.svg"
+																alt="" /></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="image">
+											<img src="portfolio_assets/img/thumbs/4-3.jpg" alt="" />
+											<div class="main" data-img-url="portfolio_assets/img/news/4.jpg"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details">
+											<div class="extra">
+												<div class="short">
+													<p class="date">By <a href="#">Kevin Stone</a> <span>22 Jan
+															2021</span></p>
+												</div>
+												<div class="my_like">
+													<a href="#"><img class="svg" src="portfolio_assets/img/svg/like.svg"
+															alt="" /><span>16</span></a>
+												</div>
+											</div>
+											<h3 class="title"><a href="#">Stay creative in lockdown with these fun photo
+													projects</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										<div class="main_content">
+											<div class="descriptions">
+												<p class="bigger">Just because we can't get out and about like we
+													normally would, doesn’t mean we have to stop taking pictures.
+													There’s still plenty you can do, provided you're prepared to use
+													some imagination. Here are a few ideas to keep you shooting until
+													normal life resumes.</p>
+												<p>Most photographers love to shoot the unusual, and you don’t get much
+													more unusual than These Unprecedented Times. Right now everything
+													counts as out of the ordinary. There are a number of remarkable
+													things about these lockdown days that are worth photographing now so
+													we can remember them when it is all over.</p>
+												<p>Streets empty that are usually busy are remarkable and can evoke the
+													sense of historical pictures from before the invention of the
+													motorcar. Other things that are different at the moment will be
+													queues to get into stores and the lines marked out on the floor to
+													show how far apart we should be.</p>
+												<div class="quotebox">
+													<div class="icon">
+														<img class="svg" src="portfolio_assets/img/svg/quote.svg"
+															alt="" />
+													</div>
+													<p>Most photographers find it hard to see interesting pictures in
+														places in which they are most familiar. A trip somewhere new
+														seems always exactly what our photography needed, as shooting
+														away from home consistently inspires us to new artistic heights.
+													</p>
+												</div>
+												<p>Pretend everything is new and that you haven’t seen it before, and
+													then you will be free to notice the leading lines, the places where
+													one edge meets another in delightful geometric harmony, and how the
+													ordinary things in the kitchen are transformed when the light is on
+													or off.</p>
+												<p>The trick here is to look slowly, and then look again. Take the time
+													to look in detail and to look at the same thing from different
+													angles, with different light, long lenses and wide lenses. Then move
+													to the left a bit. You may never feel the need to leave the house
+													again.</p>
+											</div>
+											<div class="news_share">
+												<span>Share:</span>
+												<ul>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/facebook.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/twitter.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/instagram.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/dribbble.svg"
+																alt="" /></a></li>
+													<li><a href="#"><img class="svg"
+																src="portfolio_assets/img/svg/social/tik-tok.svg"
+																alt="" /></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- <div id="contact" class="tokyo_tm_section">
+
+				<div class="container">
+					<div class="tokyo_tm_contact">
+						<div class="tokyo_tm_title">
+							<div class="title_flex">
+								<div class="left">
+									<span>Contact</span>
+									<h3>Get in Touch</h3>
+								</div>
+							</div>
+						</div>
+						<div class="map_wrap">
+							<div class="map" id="ieatmaps"></div>
+						</div>
+						<div class="fields">
+							<form action="/" method="post" class="contact_form" id="contact_form" autocomplete="off">
+								<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
+								<div class="empty_notice"><span>Please Fill Required Fields</span></div>
+								<div class="first">
+									<ul>
+										<li>
+											<input id="name" type="text" placeholder="Name">
+										</li>
+										<li>
+											<input id="email" type="text" placeholder="Email">
+										</li>
+									</ul>
+								</div>
+								<div class="last">
+									<textarea id="message" placeholder="Message"></textarea>
+								</div>
+								<div class="tokyo_tm_button" data-position="left">
+									<a id="send_message" href="#">
+										<span>Send Message</span>
+									</a>
+								</div>
+
+							</form>
+						</div>
+					</div>
+				</div>	
+			</div> -->
+
+			</div>
+		</div>
+		<div class="mouse-cursor cursor-outer"></div>
+		<div class="mouse-cursor cursor-inner"></div>
+
+	</div>
+
+	<script src="portfolio_assets/js/jquery.js"></script>
+	<script src="portfolio_assets/js/plugins.js"></script>
+	<script src="portfolio_assets/js/init.js"></script>
+</body>
+
+</html>

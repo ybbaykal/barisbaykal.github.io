@@ -1,0 +1,108 @@
+@keyframes shake {
+    0% {
+        transform: translate(1px, 1px) rotate(0deg);
+    }
+
+    10% {
+        transform: translate(-1px, -2px) rotate(-1deg);
+    }
+
+    20% {
+        transform: translate(-3px, 0px) rotate(1deg);
+    }
+
+    30% {
+        transform: translate(3px, 2px) rotate(0deg);
+    }
+
+    40% {
+        transform: translate(1px, -1px) rotate(1deg);
+    }
+
+    50% {
+        transform: translate(-1px, 2px) rotate(-1deg);
+    }
+
+    60% {
+        transform: translate(-3px, 1px) rotate(0deg);
+    }
+
+    70% {
+        transform: translate(3px, 1px) rotate(-1deg);
+    }
+
+    80% {
+        transform: translate(-1px, -1px) rotate(1deg);
+    }
+
+    90% {
+        transform: translate(1px, 2px) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(1px, -2px) rotate(-1deg);
+    }
+}
+
+.shaking {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #2E3338;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #202225;
+    border-radius: 10px;
+    border-left: 3px solid #2E3338;
+    border-right: 3px solid #2E3338;
+    size: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #202225;
+}
+
+
+.card-shadow{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+}
+
+.list-group a{
+    cursor: pointer;
+}
+
+body{
+    background-image: url("/assets/images/index/bg1.jpg");
+    background-repeat: repeat;
+}
+
+.nav li {
+    margin-right:10px;
+}
+
+.content-header{
+    margin:0px;
+    display: block;
+    font-size:18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.list-group a span{
+    float:left;
+}
